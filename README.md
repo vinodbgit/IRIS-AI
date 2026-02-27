@@ -190,6 +190,6 @@ Streamlit Documentation
 
 👨‍💻 Author
 
-Vinod Badiger
-CSE Student
+Vinod Badiger,
+CSE Student,
 AI & Machine Learning Enthusiast
