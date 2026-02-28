@@ -160,10 +160,6 @@ Store results in SQLite database
 
 Generate explainability insights
 
-📸 Screenshots
-
-(Add your dashboard screenshots here)
-
 🔮 Future Scope
 
 Resume Analyzer Integration
